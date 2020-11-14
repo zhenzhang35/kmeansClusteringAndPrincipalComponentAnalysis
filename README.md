@@ -1,6 +1,6 @@
-# $K$-means Clustering and Principal Component Analysis
+# *K*-means Clustering and Principal Component Analysis
 
-This code implements $K$-means clustering algorithm and apply it to compress an image.
+This code implements *K*-means clustering algorithm and apply it to compress an image.
 
 ## Instruction
 
